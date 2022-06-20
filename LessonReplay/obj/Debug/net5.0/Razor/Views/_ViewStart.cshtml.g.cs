@@ -19,8 +19,15 @@ using DAL.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/Users/babayev_/Desktop/lessonReplay/LessonReplay/LessonReplay/Views/_ViewImports.cshtml"
+using LessonReplay.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"13d997f3c0487a4271425847f520061dffe2e64d", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9438814f40cc2c7cc3257a321cdf8d65e8837f6f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8be4338b8997fd7246967d7c4645d6d9afdc2b1e", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
